@@ -85,8 +85,8 @@ author:
   bio              : "PhD student, Mathematics Department, University of Southern California"
   location         : "Los Angeles"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jaronowitz"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "julian-aronowitz-40839698"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/JulianAronowitz"
+  twitter          : "JulianAronowitz"
   vine             :
   weibo            :
   xing             :
